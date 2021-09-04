@@ -1,0 +1,7 @@
+<Sorcery>
+	<append xpath="/windows">	
+		<window name="SynergyVersionToolbelt" depth="99" pos="-250,-34" width="250" height="50" anchor="RightTop">		
+			<label name="SynergyVersionToolbeltLabel" pos="-20,0" depth="0" size="250,50" text="Synergy 0.0.1" font_size="22" effect="outline" color="255,255,255,255" justify="right" upper_case="false" />
+		</window>		
+	</append>
+</Sorcery>

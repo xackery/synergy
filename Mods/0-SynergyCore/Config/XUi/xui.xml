@@ -1,0 +1,6 @@
+<Sorcery>
+	<append xpath="/xui/ruleset[@name='default']/window_group[@name='toolbelt']">
+		<window name="SynergyVersionToolbelt" anchor="RightTop" />
+	</append>
+		
+</Sorcery>

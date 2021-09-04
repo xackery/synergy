@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<xml>
+	<ModInfo>
+		<Name value="Synergy Core" />
+		<Description value="Synergy Core" />
+		<Author value="Xackery" />
+		<Version value="19.6.0.0.1" />
+		<Website value="https://github.com/xackery/synergy" />
+	</ModInfo>
+</xml>

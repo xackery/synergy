@@ -1,0 +1,6 @@
+<Sorcery>
+	<!-- UI TR: SORCERY LOGO -->
+	<append xpath="/xui/ruleset[@name='default']/window_group[@name='mainMenuLogo']">
+		<window name="SynergyVersion" anchor="RightTop" />
+	</append>
+</Sorcery>
